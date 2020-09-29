@@ -8,7 +8,7 @@
 
 <!-------------javascript code write------------------>
 <script>
-document.getElementById("demo").innerHTML = "Hello Javascrip!";
+document.getElementById("demo").innerHTML = "Hello Javascript!";
 </script>
 
 </body>
