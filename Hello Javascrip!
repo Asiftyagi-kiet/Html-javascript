@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Welcome to KIET College</h2>
+
+<p id="demo"></p>
+
+<!-------------javascript code write------------------>
+<script>
+document.getElementById("demo").innerHTML = "Hello Javascrip!";
+</script>
+
+</body>
+</html> 
