@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>JavaScript Strings</h2>
+
+<p id="demo"></p>
+<!--------------string function---------------------->
+<script>
+var x = "John Doe";  // String written inside html code
+document.getElementById("demo").innerHTML = x;
+</script>
+
+</body>
+</html>
