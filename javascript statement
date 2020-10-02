@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2> Statements of JavaScript</h2>
+
+
+<p id="demo"></p>
+<!-------------------statement of javascript------------------------->
+<script>
+var x, y, z;  // Statement 1
+x = 4;        // Statement 2
+y = 2;        // Statement 3
+z = x + y;    // Statement 4
+
+document.getElementById("demo").innerHTML =
+"The value of z is " + z + ".";  
+</script>
+
+</body>
+</html>
