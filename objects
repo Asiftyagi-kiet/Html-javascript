@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2> Objects</h2>
+
+<p id="demo"></p>
+<!---------------------javascript objects
+<script>
+// Create an object:
+var car = {type:"bmw", model:"CR0", color:"white"};
+
+// Display some data from the object:
+document.getElementById("demo").innerHTML = "The car type is " + car.type;
+<br>
+document.getElementById("demo").innerHTML = "The car type is " + car.color;
+</script>
+
+</body>
+</html>
