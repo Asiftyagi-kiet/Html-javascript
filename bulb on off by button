@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>javascript bulb</title>
+</head>
+<body>
+<script>
+function light(value)
+{
+  	var pic;
+  	if(value==0){
+  		pic = "image/2.png"
+  	}
+  	else
+  	{
+  		pic = "image/1.png"
+  	}
+  	document.getElementById('myimage').src = pic;
+}
+
+</script>
+<img id="myimage" src="image/2.png" width="100" height="100">
+<p>
+	<button type="button" onclick="light(1)">Light On</button>
+	<button type="button" onclick="light(0)">Light off</button>
+</p>
+<noscript>Sorry, your browser does not support JavaScript!</noscript>
+
+</body>
+</html>
