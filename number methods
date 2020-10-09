@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Welcome to Kiet College</
+<h2>JavaScript Number Methods</h2>
+
+<p>The toString() method converts a number to a string.</p>
+
+<p id="demo"></p>
+
+<script>
+var x = 124;
+document.getElementById("demo").innerHTML =
+  x.toString() + "<br>" +
+   (145).toString() + "<br>" +
+   (100 + 123).toString();
+</script>
+
+</body>
+</html>
