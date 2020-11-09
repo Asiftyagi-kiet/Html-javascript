@@ -1,0 +1,15 @@
+<html>
+<body>
+<script>
+function delayFunction() {
+    //display the message on web after 3 seconds on calling delayFunction
+    document.write('<h3> Welcome to JavaTpoint <h3>'); 
+}
+</script>
+<h4> Example of delay the execution of function <h4> 
+
+<!?button for calling of user-defined delayFunction having 3 seconds of delay -->
+<button onclick = "setTimeout(delayFunction, 3000)"> Click Here </button>
+
+</body>
+</html>
