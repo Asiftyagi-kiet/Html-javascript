@@ -6,7 +6,7 @@ function delayFunction() {
     document.write('<h3> Welcome to JavaTpoint <h3>'); 
 }
 </script>
-<h4> Example of delay the execution of function <h4> 
+<h4> Example of delay the execution of function. Join to kiet college <h4> 
 
 <!?button for calling of user-defined delayFunction having 3 seconds of delay -->
 <button onclick = "setTimeout(delayFunction, 3000)"> Click Here </button>
