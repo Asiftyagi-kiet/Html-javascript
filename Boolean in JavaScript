@@ -2,7 +2,6 @@
 <html>
 <body>
 
-<p>Display the value of Boolean(10 > 9):</p>
 
 <button onclick="myFunction()">Try it</button>
 
