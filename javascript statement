@@ -3,8 +3,6 @@
 <body>
 
 <h2> Statements of JavaScript</h2>
-
-
 <p id="demo"></p>
 <!-------------------statement of javascript------------------------->
 <script>
