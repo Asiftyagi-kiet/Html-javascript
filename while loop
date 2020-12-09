@@ -2,3 +2,4 @@ while (i < 15) {
   text += "The number is " + i;
   i++;
 }
+// increment 1+1+1-------------
