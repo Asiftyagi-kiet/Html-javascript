@@ -3,7 +3,7 @@
 <head> 
 </head> 
 <body> 
-	<h1> Example of the continue statement in JavaScript</h1>
+<h1> Example of the continue statement in JavaScript</h1>
 	<h3> Here, you can see that "a == 4" is skipped. </h3> 
 	<p id = "para">	
 	</p> 
@@ -19,5 +19,4 @@ for (a = 1; a <=7; a++) {
 document.getElementById("para").innerHTML = res;
 	</script> 
 </body> 
-
 </html>
