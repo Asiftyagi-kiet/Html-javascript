@@ -3,9 +3,7 @@
 <body>
 
 <h2> Functions</h2>
-
 <!-----------------id ----------------->
-
 <p id="demo"></p>
 <!----------------javascript start---------function------------->
 <script>
