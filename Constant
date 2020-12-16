@@ -4,7 +4,6 @@
 <h2>welcome To kite college</h2>
 
 <p id="demo"></p>
-
 <script>
 var  x = 10;
 // Here x is 10
