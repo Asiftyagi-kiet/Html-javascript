@@ -6,6 +6,7 @@
 <p id="demo"></p>
 <script>
 var  x = 10;
+
 // Here x is 10
 {  
   const x = 2;
