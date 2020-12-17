@@ -5,7 +5,6 @@
 <h2>JavaScript For Loop</h2>
 
 <p id="demo"></p>
-
 <script>
 var cars = ["BMW", "Volvo", "Saab", "Ford", "Fiat", "Audi"];
 var text = "";
